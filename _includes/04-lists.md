@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+- wpis 1
+- wpis 2
+- wpis 3
